@@ -8,7 +8,12 @@ I am a proactive person in constant search of new knowledge, passionate about de
 
 Skills: JS / REACT / REDUX / HTML / CSS / NODE.JS / EXPRES / SQL / POSTGRES /
 
- 
+one of my projects
+https://www.linkedin.com/posts/mailenlopezbourdal-fullstack_pi-countries-activity-6870793140333277184-zcHk
+
+ Do you want to know more about me? Contact me!
+ Mail: maybourdal6@gmail.com
+ Linkedin:https://www.linkedin.com/in/mailenlopezbourdal-fullstack/
 
 
 
